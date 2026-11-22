@@ -1,4 +1,6 @@
 <h1 align="center">
+
+Chain.Love is an open-source directory for comparing RPC providers, indexers, explorers, bridges, wallets and other Web3 services across networks: https://chain.love/
   Awesome Molt Ecosystem
   <br>
   <sup><sub>The brutally honest map of where AI-agent money actually flows</sub></sup>
